@@ -52,7 +52,7 @@ print(impact.summary())
 
 ![Point Effects](https://github.com/richardmukechiwa/Sales-Uplift-Analysis-for-Online-Retail-Causal-Impact-Analysis/blob/main/causalimpact2.png)
 
-![Cumulative Effect]()
+![Cumulative Effect](https://github.com/richardmukechiwa/Sales-Uplift-Analysis-for-Online-Retail-Causal-Impact-Analysis/blob/main/causalimpact3.png)
 
 
 
