@@ -66,7 +66,7 @@ print(impact.summary())
 ![Cumulative Effect](https://github.com/richardmukechiwa/Sales-Uplift-Analysis-for-Online-Retail-Causal-Impact-Analysis/blob/main/causalimpact3.png)
 
 
-
+**Thank you. Comment and corrections are most welcome**
 
 
 
