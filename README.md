@@ -35,8 +35,8 @@ Here’s a brief code snippet for the analysis:
 from causalimpact import CausalImpact
 
 # Pre and post-intervention periods
-pre_period = [0, 49]
-post_period = [50, 99]
+pre_period = ['2021-01-01', '2021-07-19']
+post_period = ['2021-07-20', '2021-09-07']
 
 # Causal Impact analysis
 impact = CausalImpact(df[['revenue', 'quantity', 'unit_price']], pre_period, post_period)
