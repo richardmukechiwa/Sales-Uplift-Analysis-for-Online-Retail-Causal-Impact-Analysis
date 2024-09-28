@@ -42,11 +42,13 @@ post_period = [50, 99]
 impact = CausalImpact(df[['revenue', 'quantity', 'unit_price']], pre_period, post_period)
 print(impact.summary())
 
-```python
+```
 
 ### Visualization
 
 - visualized the results of the causal impact analysis to better understand the intervention effect:
+
+
 
 
 
