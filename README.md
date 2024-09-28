@@ -65,8 +65,8 @@ print(impact.summary())
 
 ![Cumulative Effect](https://github.com/richardmukechiwa/Sales-Uplift-Analysis-for-Online-Retail-Causal-Impact-Analysis/blob/main/causalimpact3.png)
 
-
-**Thank you. Comment and corrections are most welcome**
+## Conclusion:
+The analysis confirms a statistically significant and positive effect from the intervention, with an increase in the response variable by 72.89 units or +10.8% over the expected value. The probability of this effect occurring by chance is extremely low, affirming that the intervention played a key role in driving this outcome.
 
 
 
