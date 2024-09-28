@@ -48,7 +48,8 @@ print(impact.summary())
 
 - visualized the results of the causal impact analysis to better understand the intervention effect:
   
-**Predicted and actual values**
+                                        **Predicted and actual values**
+  
 ![Predicted and y values](https://github.com/richardmukechiwa/Sales-Uplift-Analysis-for-Online-Retail-Causal-Impact-Analysis/blob/main/cuasalimpact1.png)
 
 
