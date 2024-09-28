@@ -6,9 +6,14 @@ This project showcases a causal impact analysis performed on a dataset with feat
 
 ## Project Overview
 
-The analysis was performed using the `CausalImpact` package to estimate the effect of an intervention on `revenue`. We used a time series dataset where the intervention was introduced during a known period.
+- used the `CausalImpact` package to estimate the effect of an intervention on `revenue`.
 
 ### Dataset
+
+-   used a time series dataset where the intervention was introduced during a known period.
+-   
+  **Link :** https://github.com/andresvourakis/synthetic-e-commerce-data-with-marketing-campaign
+
 - **Revenue**: Total revenue generated.
 - **Quantity**: Number of units sold.
 - **Unit Price**: Price per unit sold.
