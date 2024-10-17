@@ -1,5 +1,3 @@
-# Sales-Uplift-Analysis-for-Online-Retail-Causal-Impact-Analysis
-
 ##  Causal Impact Analysis on Revenue, Quantity, and Unit Price
 
 This project showcases a causal impact analysis performed on a dataset with features such as `revenue`, `quantity`, and `unit_price`. The goal was to assess the impact of an intervention on these variables.
